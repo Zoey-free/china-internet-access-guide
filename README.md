@@ -1,5 +1,11 @@
 # china-internet-access-guide
 A practical guide to using the internet in China, covering VPN issues, alternative solutions, and real user tips.
+
+## 🌍 Real Experience: Internet Access in China
+
+This guide is based on real travel experience and common issues people face when trying to access the internet in China.
+
+
 # China Internet Access Guide (2026)
 
 If you're planning to travel to China, one of the most important things to prepare in advance is your internet access.
