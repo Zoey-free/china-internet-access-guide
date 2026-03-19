@@ -58,7 +58,8 @@ Some tools behave differently on iOS, so it’s recommended to:
 
 ## 🔗 Full Step-by-Step Guide
 
-I’ve put together a more detailed guide here, including setup examples and real-world usage:
+
+If you want a more detailed breakdown with examples, I wrote a full guide here:
 
 👉 https://vpntops.com/en/how-to-use-vpn-in-china/
 
